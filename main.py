@@ -1,1 +1,2 @@
-print("")
+import pygame
+pygame.init()
